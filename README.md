@@ -1,3 +1,3 @@
 # EmojiDrop
 ## My WWDC 2019 Scholarship Submission
-This is best run on Swift Playgrounds on iPad
+For the best experience, run this on Swift Playgrounds 2.2 on iPad
